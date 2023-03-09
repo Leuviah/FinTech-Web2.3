@@ -1,14 +1,14 @@
 /*|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||__
 # Intellectual Property Rights(c) 2023 | In production>>> "https://claritycoin.org"
-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||__
+# Leuviah(c)2023 | Fintech Industry
 | HHWAGR (c) | is a "U.S.A" Federally registered private foundation
-We build with legos, we dont mold our own.  
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||__
+We build with legos, we dont mold our own...mostly
 That being said, anything business operable and/or design-branding specific...
-is NOT open for production use.  
+is **NOT open for production use.**  
 Peruse lightly ^_^ 
 I'll link chains/docs/ref like a biblio at the end of these ramblings
 _|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||_
-# Leuviah(c)2023 | Fintech Industry 
 Bringing Web3 to Web2
        *poof*
 If this were BurgerKing &copy; I wouldnt use GitHub at all, but here..we..go!
@@ -25,7 +25,6 @@ _______________________________________________________________________________
   Host allstuff marketplace on site
   Host Web3 Game(s) on site
   Host an AI ChatBot on site!
-
   AI Image Generator
   Tokennnn faucet??
   Get that STAKE 
