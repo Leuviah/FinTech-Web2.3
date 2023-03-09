@@ -1,7 +1,7 @@
 /*|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||__
 # Intellectual Property Rights(c) 2023 | In production>>> "https://claritycoin.org"
-# Leuviah(c)2023 | Fintech Industry
-| HHWAGR (c) | is a "U.S.A" Federally registered private foundation
+# Leuviah(c) 2023 | Fintech Industry
+# HHWAGR (c) | is a "U.S.A" Federally registered private foundation
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||__
 We build with legos, we dont mold our own...mostly
 That being said, anything business operable and/or design-branding specific...
