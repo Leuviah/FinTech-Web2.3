@@ -1,5 +1,5 @@
 /*|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||__
-#ntellectual Property Rights(c) 2023 | In produc>>> "https://claritycoin.org"
+# Intellectual Property Rights(c) 2023 | In production>>> "https://claritycoin.org"
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||__
 | HHWAGR (c) | is a "U.S.A" Federally registered private foundation
 We build with legos, we dont mold our own.  
