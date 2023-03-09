@@ -33,6 +33,9 @@ _______________________________________________________________________________
 Something about Stellar Lumens int	
 	ADA too? 
 Sta sta sta stablecoinnnnnn "xinfin"
+	
+	https://developer.squareup.com/docs/web-payments/overview#related-topics
+	
 */
 ******************************************************************************
 Copyright 2023 | Leuviah Industries
