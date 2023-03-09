@@ -1,3 +1,5 @@
+![Leuviah-Angel-Symbol](https://user-images.githubusercontent.com/126747877/223969945-a017b691-78be-49d5-8322-21a69fb9a2b0.png)
+
 /*|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||__
 # Intellectual Property Rights(c) 2023 | In production>>> "https://claritycoin.org"
 # Leuviah(c) 2023 | Fintech Industry
